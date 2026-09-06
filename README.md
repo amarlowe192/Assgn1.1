@@ -1,7 +1,7 @@
 # CS 240 - Allie Marlowe's HW1
 
 ### Github Link:
-https://.....
+https://github.com/amarlowe192
 ## Description
 
 This is the project I built based off the following requirements:
@@ -31,6 +31,7 @@ Submit the PDF document.
 
 ### Executing program
 
+* For Best results, use JetBrains WebStorm, that is what I made it on
 * Hit Run, Follow the prompts. Don't break it please, I spent all day on it :(
 
 
